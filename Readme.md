@@ -80,6 +80,9 @@ of a new post. These can be either primitives or arrays.
   issues](https://github.com/jaredly/hexo-admin/issues)
 - [fork](https://github.com/jaredly/hexo-admin) and pull-request
 
+### 7. Themes
+- https://hexo.io/themes/
+
 # Credits
 
 built with ❤ by [Jared Forsyth](http://jaredly.github.io)
